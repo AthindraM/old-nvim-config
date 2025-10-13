@@ -1,0 +1,10 @@
+# Ignore swap/undo files
+*.swp
+*.swo
+*.un~
+*.bak
+
+# Ignore plugin installation folders
+plugin/
+pack/
+
